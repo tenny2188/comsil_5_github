@@ -16,6 +16,7 @@ int main() {
 	LinkedList<int>* p;
 	bool flag = false;
 	cout << "자료구조 선택(1: Stack, Other: Linked List): ";
+	cout << "test1 ";
 	cin >> mode;
 	// 기반 클래스의 포인터를 사용하여 기반 클래스 뿐만 아니라
 	// 파생 클래스의 인스턴스 또한 접근할 수 있다.
